@@ -1,6 +1,4 @@
 # 官方镜像示例
-nginx:1.28.0
-ubuntu:22.04
-python:3.9-slim
+mysql:8.4.6
 
 # 此处一定要有一行空行
