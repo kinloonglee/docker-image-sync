@@ -33,9 +33,10 @@ while IFS= read -r image; do
     # 分离原始镜像的仓库名和标签
     # 例如：nginx:latest -> original_repo=nginx, original_tag=latest
     # 例如：jenkins/jenkins:lts -> original_repo=jenkins/jenkins, original_tag=lts
-    original_repo=$(echo "$image" | cut -d ':' -f1)
-    original_tag=$(echo "$image" | cut -d ':' -f2)
- 
+    #original_repo=$(echo "$image" | cut -d ':' -f1)
+    #original_tag=$(echo "$image" | cut -d ':' -f2)
+     original_repo=langgenius_dify-api:1.9.2
+    original_tag=1.9.2
     # 构造目标 ACR 完整镜像路径
     target_full_image_path="${ACR_REGISTRY}/${ACR_NAMESPACE}/${original_repo}:${original_tag}"
  
