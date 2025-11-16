@@ -1,4 +1,4 @@
 # 官方镜像示例
-langgenius/dify-api:1.9.2
+langgenius/dify-web:1.9.2
 
 # 此处一定要有一行空行
