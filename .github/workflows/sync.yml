@@ -11,7 +11,7 @@ on:
   
 jobs:
   sync-images: # 定义一个 Job
-    runs-on: ubuntu-22.04-arm # GitHub Actions Runner 运行环境 (Ubuntu 最新版)
+    runs-on: macos-latest # GitHub Actions Runner 运行环境 (Ubuntu 最新版)
     steps:
       - name: Checkout repository # 步骤1: 拉取 GitHub 仓库代码
         uses: actions/checkout@v4 # 使用 actions/checkout@v4 action
