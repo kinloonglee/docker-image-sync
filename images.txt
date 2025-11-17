@@ -1,5 +1,5 @@
 # 官方镜像示例
 
-docker.io/bitnami/mysql:5.7.43
+mysql:5.7
 
 # 此处一定要有一行空行
