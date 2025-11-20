@@ -1,6 +1,7 @@
 # 官方镜像示例
-image: registry.k8s.io/ingress-nginx/controller:v1.14.0
-image: registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.4
+
+registry.k8s.io/ingress-nginx/controller:v1.14.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.4
 
 
 # 此处一定要有一行空行
