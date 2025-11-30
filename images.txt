@@ -1,6 +1,8 @@
 # 官方镜像示例
 
-vesoft/nebula-studio:3.10.0
+golang:1.21-alpine
+node:18-alpine
+alpine
 
 
 # 此处一定要有一行空行
