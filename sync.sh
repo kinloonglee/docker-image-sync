@@ -56,8 +56,8 @@ while IFS= read -r image; do
  
     # 拉取原始镜像
     echo "Pulling original image: ${image}..."
-    # docker pull --platform arm64 "${image}"
-    docker pull  "${image}"
+    docker pull --platform arm64 "${image}"
+    # docker pull  "${image}"
  
     # 打上阿里云 ACR 的标签
     echo "Tagging image ${image} to ${target_full_image_path}..."
