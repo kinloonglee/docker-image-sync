@@ -1,8 +1,10 @@
 # 官方镜像示例
 
-golang:1.21-alpine
-node:18-alpine
-alpine
+docker.io/vesoft/nebula-metad:v3.8.0
+docker.io/vesoft/nebula-storaged:v3.8.0
+docker.io/vesoft/nebula-graphd:v3.8.0
+docker.io/vesoft/nebula-console:v3.6.0
+
 
 
 # 此处一定要有一行空行
