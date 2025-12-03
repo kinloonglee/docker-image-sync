@@ -1,6 +1,6 @@
 # 官方镜像示例
 
-svcvit/dify-sandbox-py:0.1.4
+apache/seatunnel:2.3.12
 
 
 
