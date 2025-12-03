@@ -1,6 +1,12 @@
 # 官方镜像示例
 
-docker.io/maven:3-openjdk-8
+bitnami/postgresql:15.2.0
+bitnami/zookeeper:3.7.1
+apache/dolphinscheduler-tools:3.3.2
+apache/dolphinscheduler-alert-server:3.3.2
+apache/dolphinscheduler-master:3.3.2
+apache/dolphinscheduler-work:3.3.2
+
 
 
 
