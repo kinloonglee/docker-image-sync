@@ -1,6 +1,6 @@
 # 官方镜像示例
 
-arm64v8/mysql:8.0
+svcvit/dify-sandbox-py:0.1.4
 
 
 
