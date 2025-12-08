@@ -1,6 +1,6 @@
 # 官方镜像示例
 
-apache/seatunnel:2.3.12
+docker.io/library/python:3.10-slim
 
 
 
