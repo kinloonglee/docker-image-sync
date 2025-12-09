@@ -1,6 +1,6 @@
 # 官方镜像示例
 
-apache/seatunnel:2.3.12
+ubuntu:22.04
 
 
 
