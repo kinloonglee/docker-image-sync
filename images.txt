@@ -1,8 +1,8 @@
 # 官方镜像示例
 
-ubuntu:22.04
 
 
+ghcr.io/kube-vip/kube-vip:v1.3.1
 
 
 
