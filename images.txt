@@ -3,6 +3,7 @@
 
 
 quay.io/cilium/cilium-envoy:v1.35.9-1770979049-232ed4a26881e4ab4f766f251f258ed424fff663
+ghcr.io/kube-vip/kube-vip:v1.3.1
 
 
 
